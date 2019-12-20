@@ -8,10 +8,10 @@ I improved the code to give graphs for 3 components in the  basic computer CPU,R
 # Note:
 This is useful for local machines only. If you need to use it for remote systems like via ssh connection it can be possible by useing
 
-  **plt.switch_backend('TkAgg')#remote side 
-  **plt.show()#remote side code
-  It will foward connection to your local system  via x window 
-  for more info [check]https://zngguvnf.org/2018-07-21--matplotlib-on-remote-machine.html
+**plt.switch_backend('TkAgg')#remote side**
+ plt.show()#remote side code
+ It will foward connection to your local system  via x window 
+ for more info [check]https://zngguvnf.org/2018-07-21--matplotlib-on-remote-machine.html
   
 
 # Prerequisites and libaries used:
