@@ -7,17 +7,19 @@ I improved the code to give graphs for 3 components in the  basic computer CPU,R
 
 # Note:
 This is useful for local machines only. If you need to use it for remote systems like via ssh connection it can be possible by useing
-
-**plt.switch_backend('TkAgg')#remote side**
- plt.show()#remote side code
- It will foward connection to your local system  via x window 
- for more info [check]https://zngguvnf.org/2018-07-21--matplotlib-on-remote-machine.html
+  1.  plt.switch_backend('TkAgg') #remote side
+  2.  plt.show()#remote side code
+  3.  It will foward connection to your local system  via x window 
+   for more info [checkzngguvnf.org](https://zngguvnf.org/2018-07-21--matplotlib-on-remote-machine.html)
   
 
 # Prerequisites and libaries used:
 [+]Python3
+
 [+]Matplotlib
+
 [+]psutil
+
 [+]datetime
 
 
@@ -39,7 +41,8 @@ for more [styles](https://matplotlib.org/3.1.0/gallery/style_sheets/style_sheets
 ![Alt Text](systemusage.png)
 I removed x-axis visbility of top two graphs due to overlaping you can check all have the  same x-axis.
 
-# Don't try this at Home
-![Alt Text](https://media.tenor.com/images/2225a1d9d7b1dfc27dbaef3916b6d321/tenor.gif)![Alt Text](https://media1.tenor.com/images/06d5674d86d74435991e3434d29b3ebf/tenor.gif?itemid=5081593)
+# Computer should do what we ask Only
+![Alt Text](https://media1.tenor.com/images/06d5674d86d74435991e3434d29b3ebf/tenor.gif?itemid=5081593)
+
  ## Thanks
   Student of [TomNomNom](https://github.com/TomNomNom)
