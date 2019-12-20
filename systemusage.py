@@ -61,7 +61,7 @@ def animate(i,x,y,z,d):
     ax1.plot(x, y)
     ax1.set_ylabel('CPU % Percentage',fontsize=10)
     ax1.set_xticklabels([])
-    ax1.set_title('CPU or RAM or DISK System Usage',fontsize=20)
+    ax1.set_title('CPU, RAM and Storage DISK Usage of the system',fontsize=20)
 
 
     ax2.clear()
