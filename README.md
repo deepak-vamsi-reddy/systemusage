@@ -3,7 +3,7 @@ System Usage is Real time graph using python and matplotlib
 
 It all started as challenge to show live CPU usage graph for my computer. I came across certain examples for live ploting with matplot 
 
-I improved the code to give graphs for 3 components in the  basic computer CPU,RAM,Storage DISK.Rigjht know it provides % of used each component seperatly.
+I improved the code to give graphs for 3 components in the  basic computer CPU,RAM,Storage DISK.Right know it provides total % of used each component seperatly.
 
 # Note:
 This is useful for local machines only. If you need to use it for remote systems like via ssh connection it can be possible by useing
@@ -22,12 +22,14 @@ This is useful for local machines only. If you need to use it for remote systems
 
 [+]datetime
 
+[+]Tkinter
+
 
 ### Installation Steps
 ```sh
-$apt-get install python3
-$apt-get install python3-pip
-$pip3 install mathplotlib psutil
+$apt-get install python3.6
+$apt-get install python3-pip python3.6-tk
+$pip3 install mathplotlib psutil 
 ```
 # Running Script:
 ```sh
