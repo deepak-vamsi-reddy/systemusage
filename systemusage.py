@@ -19,7 +19,6 @@ d = []
 
 class Cpusage:
     def __init__(self):
-        #self.last = psutil.cpu_percent(interval=0.5, percpu=True)
         pass
 
     def update():
