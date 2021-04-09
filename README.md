@@ -44,7 +44,7 @@ for more [styles](https://matplotlib.org/3.1.0/gallery/style_sheets/style_sheets
 I removed x-axis visbility of top two graphs due to overlaping you can check all have the  same x-axis.
 
 # Computer should do what we ask Only
-![Alt Text](https://tenor.com/view/puppet-puppet-on-astring-monitoring-animation-no-freedom-gif-16683829)
+![Alt Text](https://media.tenor.com/images/444dffd3ddc28119e043911368857400/tenor.gif)
 
  ## Thanks
   Student of [TomNomNom](https://github.com/TomNomNom)
